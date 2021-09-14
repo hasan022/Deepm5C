@@ -10,8 +10,14 @@ File Description
 3.	model the ‘model’ file contains codes for training model top 8 models, (model1.ipynb, model2.ipynb, …., model8.ipynb). And final model is modelF.ipynb.
 
 
-Environment
+Required
 
 python   : 3.7.9
 
 anaconda : 4.9.2
+
+torch==1.7.1
+
+torchvision==0.8.2
+
+torchaudio==0.7.2
