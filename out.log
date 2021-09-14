@@ -1,0 +1,10 @@
+testing_w2v.py:69: DeprecationWarning: Call to deprecated `__getitem__` (Method will be removed in 4.0.0, use self.wv.__getitem__() instead).
+  seq_emb = np.array([np.array(w2v_model[seq[i:i+num]]) for i in range(len(seq) - num + 1)])
+testing_w2v.py:69: DeprecationWarning: Call to deprecated `__getitem__` (Method will be removed in 4.0.0, use self.wv.__getitem__() instead).
+  seq_emb = np.array([np.array(w2v_model[seq[i:i+num]]) for i in range(len(seq) - num + 1)])
+testing_w2v.py:69: DeprecationWarning: Call to deprecated `__getitem__` (Method will be removed in 4.0.0, use self.wv.__getitem__() instead).
+  seq_emb = np.array([np.array(w2v_model[seq[i:i+num]]) for i in range(len(seq) - num + 1)])
+testing_w2v.py:69: DeprecationWarning: Call to deprecated `__getitem__` (Method will be removed in 4.0.0, use self.wv.__getitem__() instead).
+  seq_emb = np.array([np.array(w2v_model[seq[i:i+num]]) for i in range(len(seq) - num + 1)])
+testing_w2v.py:69: DeprecationWarning: Call to deprecated `__getitem__` (Method will be removed in 4.0.0, use self.wv.__getitem__() instead).
+  seq_emb = np.array([np.array(w2v_model[seq[i:i+num]]) for i in range(len(seq) - num + 1)])
