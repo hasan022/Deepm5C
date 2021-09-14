@@ -3,7 +3,7 @@
 """
 Created on Wed Jul 22 19:48:12 2020
 
-@author: kurata
+@author: mehedi
 """
 
 import joblib
