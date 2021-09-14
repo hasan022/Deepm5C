@@ -73,7 +73,7 @@ out = net.forward(h_vec.cuda().float(), v_vec.cuda().float())
 
  
 
-path="/Users/tsukiyamashou/Desktop/kurata_lab/data/data_sets"
+path="./data/data_sets"
 human_vector=load_pickle("train_human_vector.joblib",path)[0:10,:,:]
 virus_vector=load_pickle("train_virus_vector.joblib",path)[0:10,:,:]
 human_length=load_pickle("train_human_length.joblib",path)
