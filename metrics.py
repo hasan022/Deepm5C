@@ -3,7 +3,7 @@
 """
 Created on Fri Jul 31 00:41:49 2020
 
-@author: kurata
+@author: mehedi
 """
 import numpy as np
 import sklearn.metrics as metrics
