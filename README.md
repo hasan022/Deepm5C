@@ -8,7 +8,7 @@ In each sub file, ‘>pos’ indicates that the following sequence is positive s
 
 2.	EnCode The ‘featureCode’ file contains all codes for feature extraction. For running these codes, python version 3 is required.
 3.	model the ‘model’ file contains codes for training model top 8 models, (model1.ipynb, model2.ipynb, …., model8.ipynb). And final model is modelF.ipynb.
-4.
+
 
 Environment
 
